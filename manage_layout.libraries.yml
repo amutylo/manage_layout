@@ -1,0 +1,5 @@
+manage_layout:
+  version: VERSION
+  css:
+    theme:
+      css/manage_layout.css: {}
